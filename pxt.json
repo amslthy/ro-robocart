@@ -3,6 +3,7 @@
     "version": "0.2.0",
     "description": "MakeCode Package for RoboCart Robot Car Kit",
     "license": "MIT",
+    "icon": "https://raw.githubusercontent.com/amslthy/ro-robocart/main/icon.png",
     "dependencies": {
         "core": "*",
         "radio": "*",
